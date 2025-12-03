@@ -14,6 +14,7 @@ This project uses a classic **three-tier architecture** with:
 - **Auto Scaling across 2 AZs**
 - **Secure VPC with IGW, Nat Gateway, Route Tables, and Security Groups**
 
+# 🌐 AWS 3-Tier Application Servers 
 <p align="center">
-  <img src="assets/architecture.png" width="850" />
+  <img src="assets/servers.jpeg" width="850" />
 </p>
