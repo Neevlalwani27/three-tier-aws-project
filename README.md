@@ -2,3 +2,20 @@
 ## 🏗️ AWS 3-Tier Architecture
 
 ![AWS 3-Tier Architecture](assets/Architect.jpeg)
+<p align="center">
+  <img src="assets/architecture.png" width="800" />
+</p>
+# 🌐 AWS 3-Tier Web Application Architecture
+
+This project uses a classic **three-tier architecture** with:
+
+- **Web Tier (Public Subnets)** – EC2 instances handling front-end
+- **App Tier (Private Subnets)** – EC2 instances running backend services
+- **Database Tier (Private Subnets)** – Amazon Aurora Primary + Read Replica
+- **Elastic Load Balancer**
+- **Auto Scaling across 2 AZs**
+- **Secure VPC with IGW, Nat Gateway, Route Tables, and Security Groups**
+
+<p align="center">
+  <img src="assets/architecture.png" width="850" />
+</p>
