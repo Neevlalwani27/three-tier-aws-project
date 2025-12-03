@@ -44,7 +44,6 @@ This project uses a classic **three-tier architecture** with:
 # 🌐 AWS AutoScalingGroup(ASG)
 <p align="center">
   <img src="assets/AutoScalingGrp.jpeg" width="850" />
-  <img src="assets/ASG.jpeg" width="850" />
   <img src="assets/ASG2.jpeg" width="850" />
 </p>
 
