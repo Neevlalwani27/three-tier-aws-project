@@ -43,7 +43,7 @@ This project uses a classic **three-tier architecture** with:
 
 # 🌐 AWS AutoScalingGroup(ASG)
 <p align="center">
-  <img src="assets/AutoScalingGroup.jpeg" width="850" />
+  <img src="assets/AutoScalingGrp.jpeg" width="850" />
   <img src="assets/ASG.jpeg" width="850" />
   <img src="assets/ASG2.jpeg" width="850" />
 </p>
@@ -51,9 +51,13 @@ This project uses a classic **three-tier architecture** with:
 # 🌐 AWS Aurora Database
 <p align="center">
   <img src="assets/AuroraDB.jpeg" width="850" />
-  <img src="assets/DBpage.jpeg" width="850" />
 </p>
 
+# 🌐 AWS Application
+<p align="center">
+  <img src="assets/Architect.jpeg" width="850" />
+  <img src="assets/DBpage.jpeg" width="850" />
+</p>
 
 
 
