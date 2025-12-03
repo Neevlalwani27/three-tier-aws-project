@@ -23,3 +23,18 @@ This project uses a classic **three-tier architecture** with:
 <p align="center">
   <img src="assets/InternetGW.jpeg" width="850" />
 </p>
+
+# 🌐 AWS InternetGateway
+<p align="center">
+  <img src="assets/LoadBalancers.jpeg" width="850" />
+  <img src="assets/LB.jpeg" width="850" />
+  <img src="assets/ALBInternal.jpeg" width="850" />
+</p>
+
+
+
+
+
+
+
+
