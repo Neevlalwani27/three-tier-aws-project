@@ -3,7 +3,7 @@
 
 ![AWS 3-Tier Architecture](assets/Architect.jpeg)
 <p align="center">
-  <img src="assets/architecture.png" width="800" />
+  <img src="assets/Architect.jpeg" width="800" />
 </p>
 # 🌐 AWS 3-Tier Web Application Architecture
 
