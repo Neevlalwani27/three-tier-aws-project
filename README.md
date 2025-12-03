@@ -2,9 +2,7 @@
 ## 🏗️ AWS 3-Tier Architecture
 
 ![AWS 3-Tier Architecture](assets/Architect.jpeg)
-<p align="center">
-  <img src="assets/Architect.jpeg" width="800" />
-</p>
+
 # 🌐 AWS 3-Tier Web Application Architecture
 
 This project uses a classic **three-tier architecture** with:
